@@ -1,0 +1,21 @@
+
+
+                   Réponses aux questions du TP5
+
+  Ex. 2 : La méthode annotée @Before sert à exécuter du code avant chaque
+  test pour initialiser l’environnement.
+
+  Ex. 15 : Pour un chemin compatible Linux/Windows, on peut utiliser
+   File.separator pour gérer les différences.
+
+  Ex. 17 : Le bloc entre label1 et label2 gère les entrées/sorties pour
+   capturer la sortie standard des tests.
+
+  Ex. 19 : Une autre modélisation de Carburant aurait pu être une
+  énumération pour simplifier la gestion des carburants.
+
+  Ex. 22 : Le modèle actuel ne permet pas une propulsion hybride sans
+  modification, car une propulsion est unique par engin.
+
+  Ex. 23 : Ajouter une propulsion hybride nécessiterait une classe mixant
+   thermique et électrique et adaptant la consommation.
